@@ -1,7 +1,8 @@
 # DSND-Capstone-Project
 This repository is for Udacity Data Science Capstone Project
 
-## Communication: most of my findings are communicated here : https://medium.com/@himanshuuranjan/data-science-nanodegree-capstone-project-65a8a47f6d64
+### Communication: 
+most of my findings are communicated here : https://medium.com/@himanshuuranjan/data-science-nanodegree-capstone-project-65a8a47f6d64
 
 ## Enviroment: Using jupyter notebooks,python 3
 
